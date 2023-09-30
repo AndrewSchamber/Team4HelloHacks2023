@@ -1,6 +1,48 @@
 {
     "preferences": ["Visual", "Morning"],
-    "goals": [],
-    "badges": []
-  }
+    "badgeGoals": [
+        {"subject": "Math","level": 5  },  
+        {"subject": "Science","level": 0  },  
+        {"subject": "History","level": 0  },  
+        {"subject": "English","level": 0  },  
+        {"subject": "Programming","level": 0  },  
+        {"subject": "Writing","level": 0  },  
+        {"subject": "Physics","level": 0  },  
+        {"subject": "Chemistry","level": 0  },  
+        {"subject": "Biology","level": 0  },  
+        {"subject": "Geography","level": 0  },  
+        {"subject": "Art","level": 0  },  
+        {"subject": "Design","level": 0  },  
+        {"subject": "Literature","level": 0  },  
+        {"subject": "Business","level": 0  },  
+        {"subject": "Economics","level": 0  },  
+        {"subject": "Political Science","level": 0  },  
+        {"subject": "Management","level": 0  },  
+        {"subject": "Psychology","level": 0  },  
+        {"subject": "Sociology","level": 0  },  
+        {"subject": "Philosophy","level": 0  }
+    ],
+    "badgesEarned": [],
+    "badgesProgress": [     
+        {"subject": "Math","hours": 10  },  
+        {"subject": "Science","hours": 0  },  
+        {"subject": "History","hours": 0  },  
+        {"subject": "English","hours": 0  },  
+        {"subject": "Programming","hours": 0  },  
+        {"subject": "Writing","hours": 0  },  
+        {"subject": "Physics","hours": 0  },  
+        {"subject": "Chemistry","hours": 0  },  
+        {"subject": "Biology","hours": 0  },  
+        {"subject": "Geography","hours": 0  },  
+        {"subject": "Art","hours": 0  },  
+        {"subject": "Design","hours": 0  },  
+        {"subject": "Literature","hours": 0  },  
+        {"subject": "Business","hours": 0  },  
+        {"subject": "Economics","hours": 0  },  
+        {"subject": "Political Science","hours": 0  },  
+        {"subject": "Management","hours": 0  },  
+        {"subject": "Psychology","hours": 0  },  
+        {"subject": "Sociology","hours": 0  },  
+        {"subject": "Philosophy","hours": 0  }]
+ }
   
