@@ -1,0 +1,66 @@
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--black-colourscheme);
+  box-sizing: border-box;
+  width: 146px;
+  height: 37px;
+}
+.groupInner,
+.groupItem {
+  top: 71px;
+}
+.groupInner {
+  top: 36px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 9px;
+  left: 16px;
+  display: inline-block;
+  width: 114px;
+  height: 18px;
+}
+.div1,
+.div2 {
+  top: 81px;
+}
+.div2 {
+  top: 45px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 146px;
+  height: 108px;
+}
+.polygonIcon,
+.rectangleGroup {
+  position: absolute;
+  top: 12.02px;
+  left: 110.42px;
+  width: 18.19px;
+  height: 10.51px;
+}
+.rectangleGroup {
+  top: 0;
+  left: 0;
+  width: 146px;
+  height: 37px;
+}
+.groupParent {
+  position: relative;
+  width: 100%;
+  height: 149px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--black-colourscheme);
+  font-family: var(--font-secular-one);
+}

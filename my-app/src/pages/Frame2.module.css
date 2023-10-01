@@ -1,0 +1,239 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--cream-colourscheme);
+  width: 1920px;
+  height: 1080px;
+}
+.screenshot20230930At344 {
+  position: absolute;
+  top: 17px;
+  left: 1803px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  border-radius: 50%;
+}
+.frameItem {
+  top: 0;
+  left: 0;
+  background: linear-gradient(#ffd234, #ffd234),
+    linear-gradient(#ffd234, #ffd234), #ffd234;
+  width: 75.87px;
+  height: 75.87px;
+}
+.frameInner {
+  top: 8.68px;
+  left: 8.68px;
+  background: linear-gradient(#ffd850, #ffd850),
+    linear-gradient(#ffd234, #ffd234), #ffd234;
+  width: 58.5px;
+  height: 58.5px;
+}
+.m,
+.m1 {
+  position: absolute;
+  top: 15.47px;
+  left: 2.21px;
+  display: inline-block;
+  width: 72.21px;
+  height: 23.77px;
+}
+.m1 {
+  top: 15px;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  width: 72.18px;
+  height: 34.62px;
+}
+.ellipseContainer,
+.ellipseGroup,
+.ellipseParent,
+.frameDiv {
+  position: absolute;
+  top: 58px;
+  left: 42px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 75.87px;
+  height: 75.87px;
+}
+.ellipseContainer,
+.ellipseGroup,
+.frameDiv {
+  top: 164.8px;
+}
+.ellipseContainer,
+.frameDiv {
+  top: 370px;
+}
+.frameDiv {
+  top: 270.13px;
+}
+.frameChild10,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-19xl);
+  background-color: var(--lightgrey-colourscheme);
+  width: 331px;
+  height: 23px;
+}
+.frameChild10 {
+  background-color: var(--color-limegreen);
+  width: 179px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 87px;
+  left: 148px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 331px;
+  height: 23px;
+}
+.frameChild11,
+.frameChild12 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-19xl);
+  background-color: var(--lightgrey-colourscheme);
+  width: 331px;
+  height: 23px;
+}
+.frameChild12 {
+  background-color: var(--color-limegreen);
+  width: 179px;
+}
+.rectangleContainer,
+.rectangleParent1,
+.rectangleParent2 {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 331px;
+  height: 23px;
+}
+.rectangleContainer,
+.rectangleParent1 {
+  top: 106px;
+  height: 125px;
+}
+.rectangleContainer {
+  top: 191px;
+  left: 144px;
+  width: 335px;
+  height: 231px;
+}
+.hours,
+.hours1,
+.hours2,
+.hours3 {
+  position: absolute;
+  top: 73px;
+  left: 522px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.hours1,
+.hours2,
+.hours3 {
+  top: 177px;
+}
+.hours2,
+.hours3 {
+  top: 282px;
+}
+.hours3 {
+  top: 385px;
+}
+.ellipseParent1,
+.ellipseParent2,
+.ellipseParent3,
+.ellipseParent4,
+.rectangleParent3,
+.rectangleParent4 {
+  position: absolute;
+  top: 484px;
+  left: 42px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 75.87px;
+  height: 75.87px;
+}
+.ellipseParent2,
+.ellipseParent3,
+.ellipseParent4,
+.rectangleParent3,
+.rectangleParent4 {
+  top: 590.8px;
+}
+.ellipseParent3,
+.ellipseParent4,
+.rectangleParent3,
+.rectangleParent4 {
+  top: 796px;
+}
+.ellipseParent4,
+.rectangleParent3,
+.rectangleParent4 {
+  top: 696.13px;
+}
+.rectangleParent3,
+.rectangleParent4 {
+  top: 513px;
+  left: 148px;
+  width: 331px;
+  height: 23px;
+}
+.rectangleParent4 {
+  top: 617px;
+  left: 144px;
+  width: 335px;
+  height: 231px;
+}
+.hours4,
+.hours5,
+.hours6,
+.hours7 {
+  position: absolute;
+  top: 499px;
+  left: 522px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.hours5,
+.hours6,
+.hours7 {
+  top: 603px;
+}
+.hours6,
+.hours7 {
+  top: 708px;
+}
+.hours7 {
+  top: 811px;
+}
+.groupIcon {
+  position: absolute;
+  top: 28px;
+  left: 1729px;
+  width: 48px;
+  height: 35px;
+  cursor: pointer;
+}
+.rectangleParent {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--darkgrey-colourscheme);
+  font-family: var(--font-secular-one);
+}

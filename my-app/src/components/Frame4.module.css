@@ -1,0 +1,111 @@
+.frameChild {
+  position: absolute;
+  top: -2px;
+  left: 6px;
+  border-radius: 10px;
+  background-color: var(--lightgrey-colourscheme);
+  width: 862px;
+  height: 578px;
+}
+.subject {
+  position: absolute;
+  top: 42px;
+  left: 95px;
+  display: inline-block;
+  width: 304px;
+  height: 64px;
+}
+.componentChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+}
+.rectangleWrapper {
+  position: absolute;
+  top: 163px;
+  left: 494px;
+  width: 301px;
+  height: 67px;
+}
+.hours {
+  top: 43px;
+  left: 535px;
+  display: inline-block;
+  width: 220px;
+  height: 64px;
+}
+.groupChild,
+.hours,
+.ok {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--darkgrey-colourscheme);
+  width: 164.58px;
+  height: 67.04px;
+}
+.ok {
+  top: 1.81px;
+  left: 47.32px;
+  display: inline-block;
+  width: 67.89px;
+  height: 63.42px;
+}
+.groupItem,
+.rectangleGroup {
+  position: absolute;
+  height: 67.04px;
+}
+.rectangleGroup {
+  top: 461.85px;
+  left: 164.41px;
+  width: 164.58px;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--darkgrey-colourscheme);
+  width: 246.87px;
+}
+.cancel {
+  position: absolute;
+  top: 1.81px;
+  left: 32.92px;
+  display: inline-block;
+  width: 178.98px;
+  height: 63.42px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 460.04px;
+  left: 464.77px;
+  width: 246.87px;
+  height: 67.04px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.rectangleParent {
+  position: relative;
+  width: 717px;
+  height: 564px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--darkgrey-colourscheme);
+  font-family: var(--font-secular-one);
+}

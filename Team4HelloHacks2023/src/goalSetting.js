@@ -1,11 +1,7 @@
-const badges = require('../data/badges.json');
-const student = {
-    hours: 100,
-    badgesEarned: []   
-};
-for (let i = 0; i < subjects.length; i++) {
+const student = require('../data/student.json');
+
+for (let i = 0; i < student.badgeGoals.subject; i++) {
   const studentHoursForSubject = studentHours[i];
-  const subject = subjects[i];
 
   if (studentHoursForSubject >= 250) {
     badgesEarned.push(`${subject} Master`);
