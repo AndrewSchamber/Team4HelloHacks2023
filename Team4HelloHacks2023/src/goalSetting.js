@@ -21,3 +21,4 @@ for (let i = 0; i < subjects.length; i++) {
     badgesEarned.push(`${subject} Beginner`);
   }
 }
+let i=36;
