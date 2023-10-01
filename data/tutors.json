@@ -1,0 +1,103 @@
+[
+    {
+      "id": "T1",
+      "subjects": ["Math", "Science"],
+      "preferences": ["Visual", "Morning", "Online"]
+    },
+    {
+      "id": "T2",
+      "subjects": ["History", "English"],
+      "preferences": ["Auditory", "Evening", "In-Person"]
+    },
+    {
+      "id": "T3",
+      "subjects": ["Programming", "Math"],
+      "preferences": ["Kinesthetic", "Afternoon", "Short Sessions"]
+    },
+    {
+      "id": "T4",
+      "subjects": ["English", "Writing"],
+      "preferences": ["Reading/Writing", "Weekends", "Long Sessions"]
+    },
+    {
+      "id": "T5",
+      "subjects": ["Physics", "Chemistry"],
+      "preferences": ["Visual", "Weekdays", "Online"]
+    },
+    {
+      "id": "T6",
+      "subjects": ["Biology", "Math"],
+      "preferences": ["Auditory", "Flexible", "In-Person"]
+    },
+    {
+      "id": "T7",
+      "subjects": ["History", "Geography"],
+      "preferences": ["Morning", "Online", "Frequent Feedback"]
+    },
+    {
+      "id": "T8",
+      "subjects": ["Art", "Design"],
+      "preferences": ["Kinesthetic", "Afternoon", "In-Person"]
+    },
+    {
+      "id": "T9",
+      "subjects": ["Math", "Programming"],
+      "preferences": ["Evening", "Online", "Short Sessions"]
+    },
+    {
+      "id": "T10",
+      "subjects": ["Science", "Physics"],
+      "preferences": ["Weekdays", "Morning", "Long Sessions"]
+    },
+    {
+      "id": "T11",
+      "subjects": ["English", "Literature"],
+      "preferences": ["Reading/Writing", "Weekends", "In-Person"]
+    },
+    {
+      "id": "T12",
+      "subjects": ["Business", "Economics"],
+      "preferences": ["Auditory", "Afternoon", "Online"]
+    },
+    {
+      "id": "T13",
+      "subjects": ["Chemistry", "Science"],
+      "preferences": ["Visual", "Flexible", "Online"]
+    },
+    {
+      "id": "T14",
+      "subjects": ["History", "Political Science"],
+      "preferences": ["Morning", "Weekdays", "Long Sessions"]
+    },
+    {
+      "id": "T15",
+      "subjects": ["Art", "History"],
+      "preferences": ["Kinesthetic", "Weekends", "Short Sessions"]
+    },
+    {
+      "id": "T16",
+      "subjects": ["Math", "Physics"],
+      "preferences": ["Visual", "Evening", "Online"]
+    },
+    {
+      "id": "T17",
+      "subjects": ["English", "Writing"],
+      "preferences": ["Reading/Writing", "Morning", "In-Person"]
+    },
+    {
+      "id": "T18",
+      "subjects": ["Programming", "Math"],
+      "preferences": ["Weekdays", "Afternoon", "Online"]
+    },
+    {
+      "id": "T19",
+      "subjects": ["Science", "Biology"],
+      "preferences": ["Visual", "Flexible", "Long Sessions"]
+    },
+    {
+      "id": "T20",
+      "subjects": ["Business", "Management"],
+      "preferences": ["Auditory", "Weekends", "Short Sessions"]
+    }
+  ]
+  
