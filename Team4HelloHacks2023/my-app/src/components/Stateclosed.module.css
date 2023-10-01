@@ -1,0 +1,41 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--black-colourscheme);
+  box-sizing: border-box;
+  width: 300px;
+  height: 67px;
+}
+.none {
+  position: absolute;
+  top: 16.3px;
+  left: 32.88px;
+  display: inline-block;
+  width: 234.25px;
+  height: 32.59px;
+}
+.groupItem {
+  position: absolute;
+  top: 28.07px;
+  left: 226.88px;
+  width: 37.37px;
+  height: 19.04px;
+}
+.rectangleParent,
+.stateclosed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 67px;
+}
+.stateclosed {
+  top: 21px;
+  left: 26px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--black-colourscheme);
+  font-family: var(--font-secular-one);
+}

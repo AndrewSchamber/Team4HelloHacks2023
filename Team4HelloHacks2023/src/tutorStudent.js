@@ -1,4 +1,5 @@
 const tutors = require('../data/tutors.json');
+const student = require('../data/student.json');
 
 function matchMake(subject, student, tutors) {
     const matches = [];
@@ -21,13 +22,8 @@ function matchMake(subject, student, tutors) {
     return matches;
   }
   
-const student = {
-    id: "S1",
-    preferences: ["Visual", "Morning"]
-};
 
 const subject = "Math";
-
 
 const matchedTutors = matchMake(subject, student, tutors);
 console.log(matchedTutors);

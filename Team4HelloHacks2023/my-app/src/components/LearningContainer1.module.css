@@ -1,0 +1,78 @@
+.frameChild {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 287px;
+  height: 322px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 141px;
+  left: 144px;
+  background-color: var(--lightgrey-colourscheme);
+  width: 400px;
+  height: 40px;
+}
+.frameInner {
+  top: 223px;
+}
+.beginYourJourney,
+.email,
+.password {
+  position: absolute;
+  display: inline-block;
+}
+.beginYourJourney {
+  top: 0;
+  left: 155px;
+  font-size: var(--font-size-5xl);
+  width: 389px;
+  height: 71px;
+}
+.email,
+.password {
+  top: 112px;
+  left: 122px;
+  width: 100px;
+  height: 29px;
+}
+.password {
+  top: 199px;
+  left: 131px;
+  width: 115px;
+  height: 24px;
+}
+.signUpNow {
+  align-self: stretch;
+  position: relative;
+}
+.signUpNowWrapper {
+  position: absolute;
+  top: 321px;
+  left: 144px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-orange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 386px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.frame {
+  align-self: stretch;
+  position: relative;
+  height: 427px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--darkgrey-colourscheme);
+  font-family: var(--font-secular-one);
+}

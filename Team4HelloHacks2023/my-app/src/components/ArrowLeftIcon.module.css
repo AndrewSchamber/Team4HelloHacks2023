@@ -1,0 +1,9 @@
+.arrowLeftIcon {
+  position: absolute;
+  top: 26px;
+  left: 28px;
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+  cursor: pointer;
+}

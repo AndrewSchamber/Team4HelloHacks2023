@@ -1,0 +1,73 @@
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--black-colourscheme);
+  box-sizing: border-box;
+  width: 300px;
+  height: 68.29px;
+}
+.groupInner,
+.groupItem {
+  top: 131.04px;
+}
+.groupInner {
+  top: 66.44px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 16.61px;
+  left: 32.88px;
+  display: inline-block;
+  width: 234.25px;
+  height: 33.22px;
+}
+.div1,
+.div2 {
+  top: 149.5px;
+}
+.div2 {
+  top: 83.05px;
+}
+.polygonIcon,
+.rectangleParent {
+  position: absolute;
+  top: 75.67px;
+  left: 0;
+  width: 300px;
+  height: 199.33px;
+}
+.polygonIcon {
+  top: 22.18px;
+  left: 226.9px;
+  width: 37.37px;
+  height: 19.4px;
+}
+.groupContainer,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 68.29px;
+}
+.groupContainer {
+  height: 275px;
+}
+.groupParent {
+  position: relative;
+  width: 300px;
+  height: 275px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--black-colourscheme);
+  font-family: var(--font-secular-one);
+}

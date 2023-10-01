@@ -1,0 +1,96 @@
+.beginYourJourney,
+.next {
+  position: absolute;
+  display: inline-block;
+}
+.beginYourJourney {
+  top: 0;
+  left: 122px;
+  font-size: var(--font-size-45xl);
+  width: 583px;
+  height: 127px;
+}
+.next {
+  top: 34.2px;
+  left: 35.23px;
+  width: 329.53px;
+  height: 55.42px;
+}
+.frameChild,
+.nextParent {
+  position: absolute;
+  top: 51.45px;
+  left: 259.07px;
+  width: 40.88px;
+  height: 22.09px;
+}
+.nextParent {
+  top: 820px;
+  left: 214px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-orange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  height: 125px;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.frameItem,
+.whatTypeOf {
+  position: absolute;
+  left: 0;
+  width: 600px;
+}
+.frameItem {
+  top: 51px;
+  background-color: var(--lightgrey-colourscheme);
+  height: 72px;
+}
+.whatTypeOf {
+  top: 0;
+  display: inline-block;
+  height: 51px;
+}
+.frame1,
+.frameInner {
+  position: absolute;
+  left: 105px;
+  width: 600px;
+}
+.frame1 {
+  top: 392px;
+  height: 123px;
+  overflow: hidden;
+}
+.frameInner {
+  top: 43px;
+  background-color: var(--lightgrey-colourscheme);
+  height: 71px;
+}
+.frame,
+.frame2,
+.whatSubjectsAre {
+  position: absolute;
+  left: 0;
+  width: 827px;
+}
+.whatSubjectsAre {
+  top: 0;
+  display: inline-block;
+  height: 43px;
+}
+.frame,
+.frame2 {
+  top: 561px;
+  height: 114px;
+  overflow: hidden;
+}
+.frame {
+  top: 0;
+  height: 945px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--darkgrey-colourscheme);
+  font-family: var(--font-secular-one);
+}
